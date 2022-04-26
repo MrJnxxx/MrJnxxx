@@ -10,6 +10,6 @@
 
 ![Donation: iewil](https://img.shields.io/badge/💰-Donation-blue?style=flat-square)
 <br>
-![TRX: MrJ](https://img.shields.io/badge/DOGE-DDMKbW4nuKFb64maDga32hxQoG6fKgGsj2-blue?style=flat-square&logo=doge)
+![TRX: MrJ](https://img.shields.io/badge/DOGE-DDMKbW4nuKFb64maDga32hxQoG6fKgGsj2-blue?style=flat-square&logo=dogecoin)
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJnxxx&theme=blueberry" width="350">
