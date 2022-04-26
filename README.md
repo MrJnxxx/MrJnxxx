@@ -1,7 +1,7 @@
 <h2> Hello, I'm <b>MrJ</b> 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MrJnxxx&show_icons=true&theme=blueberry" width="350">
 
-[![Youtobe: Mr J](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/channel/UCJ_vQaUU0CKuPpOji6IiUwQ)
+[![Youtobe: Mr J](https://img.shields.io/youtube/channel/subscribers/UCJ_vQaUU0CKuPpOji6IiUwQ?style=social)](https://youtube.com/channel/UCJ_vQaUU0CKuPpOji6IiUwQ)
 <br>
 [![Github: MrJnxxx](https://img.shields.io/github/followers/MrJnxxx?style=social)](https://github.com/MrJnxxx)
 <br>
