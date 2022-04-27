@@ -8,7 +8,7 @@
 [![Telegram: MrJ](https://img.shields.io/badge/Telegram-MrJinxxx-green?style=social&logo=Telegram)](https://t.me/MrJinxxx)
 <br>
 
-![Donation: iewil](https://img.shields.io/badge/💰-Donation-blue?style=flat-square)
+![Donation: MrJnxxx](https://img.shields.io/badge/💰-Donation-blue?style=flat-square)
 <br>
 ![TRX: MrJ](https://img.shields.io/badge/DOGE-DDMKbW4nuKFb64maDga32hxQoG6fKgGsj2-blue?style=flat-square&logo=dogecoin)
 <br>
